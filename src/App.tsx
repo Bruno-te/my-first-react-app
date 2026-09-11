@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <MyComponent />
+      <MyComponent title="Hello from MyComponent!" text="hello thi is my first component made in react." />
     </div>
   );
 }
